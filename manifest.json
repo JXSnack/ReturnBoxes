@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Return Boxes",
+    "version": "1.1.10",
+    "description": "Brings back all the boxes on youtube",
+    "icons":{
+      "128":"images/icon.png",
+      "48":"images/icon_small.png"
+    },
+    "content_scripts": [{
+      "css": ["bringBack.css"],
+      "matches": ["https://www.youtube.com/*"]
+    }]
+}

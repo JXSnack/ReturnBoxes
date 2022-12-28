@@ -1,0 +1,68 @@
+
+.yt-spec-button-shape-next--filled {
+	border-radius: 1px !important;
+	background-color: red !important;
+}
+
+.yt-spec-button-shape-next--tonal {
+	border-radius: 1px !important;
+	background-color: white;
+}
+
+/* Subscribe popup */
+.ytd-popup-container {
+	border-radius: 1px !important;
+}
+
+.ytd-searchbox {
+	border-radius: 1px !important;
+}
+
+#description {
+	border-radius: 0 !important;
+	background-color: white !important;
+
+}
+
+.ytd-thumbnail {
+	border-radius: 0 !important;
+}
+
+.yt-spec-button-shape-next--size-m, .yt-spec-button-shape-next--size-m {
+	border-radius: 1px !important;
+}
+
+#submit-button {
+	background-color: blue !important;
+}
+
+.ytdl-extension-button-container {
+	border-radius: 0 !important;
+	margin-left: 8px !important;
+	background-color: transparent !important;
+
+	transition: 0.1s;
+}
+
+.ytdl-extension-button-container:active {
+	border-radius: 0 !important;
+	margin-left: 8px !important;
+	background-color: rgba(128, 128, 128, 0.2) !important;
+	border: 1px solid rgba(128, 128, 138, 0.2) !important;
+}
+
+yt-formatted-string {
+	font-family: "Roboto", sans-serif !important;
+}
+
+.yt-spec-button-shape-next--mono, .yt-spec-button-shape-next--tonal {
+	background-color: transparent !important;
+}
+
+.yt-spec-button-shape-next--mono:active, .yt-spec-button-shape-next--tonal:active {
+	background-color: transparent !important;
+}
+
+.sbfcn {
+	border-radius: 0 !important;
+}
