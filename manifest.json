@@ -9,7 +9,6 @@
     },
     "content_scripts": [{
       "css": ["bringBack.css"],
-      "js": ["test.js"],
       "matches": ["https://www.youtube.com/*"]
     }],
     "action":{
