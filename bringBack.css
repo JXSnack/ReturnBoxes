@@ -1,12 +1,12 @@
 
 .yt-spec-button-shape-next--filled {
-	border-radius: 1px !important;
+	border-radius: 3px !important;
 	background-color: red !important;
 }
 
 .yt-spec-button-shape-next--tonal {
-	border-radius: 1px !important;
-	background-color: white;
+	border-radius: 3px !important;
+	background-color: transparent;
 }
 
 /* Subscribe popup */
@@ -20,7 +20,7 @@
 
 #description {
 	border-radius: 0 !important;
-	background-color: white !important;
+	background-color: transparent !important;
 
 }
 
@@ -32,10 +32,13 @@
 	border-radius: 1px !important;
 }
 
+/* Submit button */
+
 #submit-button {
 	background-color: blue !important;
 }
 
+/* YTDL support */
 .ytdl-extension-button-container {
 	border-radius: 0 !important;
 	margin-left: 8px !important;
@@ -51,17 +54,19 @@
 	border: 1px solid rgba(128, 128, 138, 0.2) !important;
 }
 
+/* Font change */
+
 yt-formatted-string {
 	font-family: "Roboto", sans-serif !important;
 }
 
-.yt-spec-button-shape-next--mono, .yt-spec-button-shape-next--tonal {
+/* All of the buttons */
+.yt-spec-button-shape-next--tonal {
 	background-color: transparent !important;
+	color: black !important;
 }
 
-.yt-spec-button-shape-next--mono:active, .yt-spec-button-shape-next--tonal:active {
-	background-color: transparent !important;
-}
+/* Search stuff */
 
 .sbfcn {
 	border-radius: 0 !important;
