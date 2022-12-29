@@ -3,6 +3,7 @@
 **[What on earth does this do?](#what-on-earth-does-this-do)**\
 **[Important information](#important-information)**\
 **[How to install](#How-to-install)**
+
 ### Features
  - Better thumbnails
  - Better description
