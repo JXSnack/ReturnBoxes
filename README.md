@@ -1,7 +1,6 @@
 # ReturnBoxes
 **[Features](#Features)**\
 **[What on earth does this do?](#what-on-earth-does-this-do)**\
-**[Important information](#important-information)**\
 **[How to install](#How-to-install)**
 
 ### Features
@@ -28,9 +27,6 @@ Let me explain... With pictures!\
 ![with-4.png](with-4.png)
 
 ![with-3.png](with-3.png)
-
-### Important information
-\* = Only use releases (e.g. 1.1.0) and not betas (e.g. 1.1.10)
 
 ## How to install
 Step 1: Get the latest release\
