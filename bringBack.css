@@ -1,12 +1,20 @@
-
 .yt-spec-button-shape-next--filled {
-	border-radius: 3px !important;
 	background-color: red !important;
+}
+
+
+.yt-spec-button-shape-next--filled[light] {
+	border-radius: 3px !important;
+}
+
+.yt-spec-button-shape-next--filled[dark], .yt-spec-button-shape-next--filled[darker-dark-theme] {
+	border-radius: 3px !important;
+	color: white !important;
 }
 
 .yt-spec-button-shape-next--tonal {
 	border-radius: 3px !important;
-	background-color: transparent;
+	background-color: lightgray !important;
 }
 
 /* Subscribe popup */
@@ -30,6 +38,11 @@
 
 .yt-spec-button-shape-next--size-m, .yt-spec-button-shape-next--size-m {
 	border-radius: 1px !important;
+}
+
+.yt-spec-button-shape-next--size-m[dark], [darker-dark-theme], .yt-spec-button-shape-next--size-m[dark], [darker-dark-theme] {
+	border-radius: 1px !important;
+	color: white !important;
 }
 
 /* Submit button */
