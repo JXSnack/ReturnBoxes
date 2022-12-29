@@ -19,18 +19,15 @@
    - Made download button fit into the theme
 
 ### What on earth does this do?
-Let me explain... With pictures!
-*Before:*
+Let me explain... With pictures!\
 ![with-1.png](with-1.png)
 
-*Before:*
-![with-4.png](with-4.png)
-
-*After:*
 ![with-2.png](with-2.png)
 
-*After:*
+![with-4.png](with-4.png)
+
 ![with-3.png](with-3.png)
+
 ### Important information
 \* = Only use releases (e.g. 1.1.0) and not betas (e.g. 1.1.10)
 
