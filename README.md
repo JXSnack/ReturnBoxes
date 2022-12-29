@@ -1,5 +1,7 @@
 # ReturnBoxes
 **[Features](#Features)**\
+**[What on earth does this do?]()\
+**[Important information](#important-information)\
 **[How to install](#How-to-install)**
 ### Features
  - Better thumbnails
@@ -16,13 +18,26 @@
    - Fixed download button
    - Made download button fit into the theme
 
+### What on earth does this do?
+Let me explain... With pictures!
+*Before:*
+![with-1.png](with-1.png)
+
+*Before:*
+![with-4.png](with-4.png)
+
+*After:*
+![with-2.png](with-2.png)
+
+*After:*
+![with-3.png](with-3.png)
 ### Important information
 \* = Only use releases (e.g. 1.1.0) and not betas (e.g. 1.1.10)
 
 ## How to install
 Step 1: Get the latest release\
 Step 2: Unzip the source code\
-Step 3: Go to `chrome://extensions` in your chrome browser\
+Step 3: Go to `chrome://extensions` in your Chrome browser\
 Step 4: Click on `Developer mode` and make sure it turns on\
 Step 5: Click `Load unpacked extension`\
 Step 6: Select the **UNZIPPED** extension's folder\
