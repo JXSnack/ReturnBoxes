@@ -46,7 +46,7 @@ Let me explain... With pictures!\
 #### Via `addon.mozilla.org`
 `Link coming soon!`
 #### Via temporary extensions
-**Warning:** If you do it this way, you'll have to do this again every time you restart/start firefox, due to firefox disabling the extension then! We recommend using the [webstore method](#via-addonmozillaorg-).\
+**Warning:** If you do it this way, you'll have to do this again every time you restart/start firefox, due to firefox disabling the extension then! We recommend using the [webstore method](#via-addonmozillaorg).\
    Step 1: Get the latest release\
    Step 2: Unzip the source code\
    Step 3: Go to `about:debugging#/runtime/this-firefox`\
