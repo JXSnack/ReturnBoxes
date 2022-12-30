@@ -2,7 +2,7 @@
 **[Features](#Features)**\
 **[What on earth does this do?](#what-on-earth-does-this-do)**\
 **Chrome: [How to install](#chrome-tutorial-)**\
-**FireFox addon store: [How to install](#via-addonmozillaorg-)**
+**FireFox addon store: [How to install](#via-addonmozillaorg-)**\
 **FireFox temporary addon: [How to install](#via-temporary-extensions)**
 
 ### Features
