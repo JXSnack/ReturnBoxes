@@ -18,9 +18,9 @@
 - and lots more...
 
 ### Tested Browsers
-✅ - Chrome -> use chrome version
-✅ - Opera -> use chrome version
-✅ - Opera GX -> use chrome version
+✅ - Chrome -> use chrome version\
+✅ - Opera -> use chrome version\
+✅ - Opera GX -> use chrome version\
 ✅ - FireFox -> use firefox version
 
 
