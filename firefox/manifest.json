@@ -9,6 +9,7 @@
   "icons": {
     "48": "images/icon_small.png",
     "128": "images/icon.png"
+
   },
 
   "content_scripts": [
