@@ -1,5 +1,6 @@
 # ReturnBoxes
 **[Features](#Features)**\
+**[Tested Browsers](#Tested-browsers)**\
 **[What on earth does this do?](#what-on-earth-does-this-do)**\
 **Chrome: [How to install](#chrome-tutorial-)**\
 **FireFox addon store: [How to install](#via-addonmozillaorg)**\
@@ -15,6 +16,13 @@
 - Background of normal buttons transparent (like in the old layout)
 - Dark mode compatibility
 - and lots more...
+
+### Tested Browsers
+✅ - Chrome -> use chrome version
+✅ - Opera -> use chrome version
+✅ - Opera GX -> use chrome version
+✅ - FireFox -> use firefox version
+
 
 ### Extension support
 * YTDL Fox (YouTube Downloader Foxified)
