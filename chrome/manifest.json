@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "[Chrome] Return Boxes",
-    "version": "1.5.0",
+    "version": "1.5.2",
     "description": "CHROME VERSION - Brings back all the boxes on youtube. Please check link.snackbag.net/rb-up for updates",
     "icons":{
       "128":"images/icon.png",
