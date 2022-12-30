@@ -1,10 +1,10 @@
 {
 
   "manifest_version": 2,
-  "name": "[FireFox] ReturnBoxes",
+  "name": "[Fire.] ReturnBoxes",
   "version": "1.0.0",
 
-  "description": "FIREFOX VERSION - Brings back all the boxes on youtube. Please check link.snackbag.net/rb-up for updates.",
+  "description": "FIRE. VERSION - Brings back all the boxes on youtube. Please check link.snackbag.net/rb-up for updates.",
 
   "icons": {
     "48": "images/icon_small.png",
