@@ -2,6 +2,9 @@
 	background-color: red !important;
 }
 
+.yt-spec-button-shape-next {
+	color: white !important;
+}
 
 .yt-spec-button-shape-next--filled[light] {
 	border-radius: 3px !important;
