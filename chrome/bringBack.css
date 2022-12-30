@@ -17,11 +17,24 @@
 	border-radius: 1px !important;
 }
 
+/* Video description */
+
 #description {
 	border-radius: 0 !important;
 	background-color: transparent !important;
 
 }
+
+/* button disabled */
+.yt-spec-button-shape-next--disabled {
+	background-color: rgb(161, 161, 161) !important;
+
+	/*background-color: #295fa8 !important;*/
+	/*background-color: #3684ec !important;*/
+
+	color: rgb(54, 54, 54) !important;
+}
+/* Thumbnail */
 
 .ytd-thumbnail {
 	border-radius: 0 !important;
