@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Return Boxes",
+    "name": "[Chrome] Return Boxes",
     "version": "1.5.0",
-    "description": "Brings back all the boxes on youtube. Please check https://github.com/JXSnack/ReturnBoxes/tags for new releases, so you're always on the newest one :)",
+    "description": "CHROME VERSION - Brings back all the boxes on youtube. Please check link.snackbag.net/rb-up for updates",
     "icons":{
       "128":"images/icon.png",
       "48":"images/icon_small.png"
@@ -10,8 +10,5 @@
     "content_scripts": [{
       "css": ["bringBack.css"],
       "matches": ["https://www.youtube.com/*"]
-    }],
-    "action":{
-      "default_popup": "popup.html"
-    }
+    }]
 }
