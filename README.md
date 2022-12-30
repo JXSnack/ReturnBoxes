@@ -2,7 +2,7 @@
 **[Features](#Features)**\
 **[What on earth does this do?](#what-on-earth-does-this-do)**\
 **Chrome: [How to install](#chrome-tutorial-)**\
-**FireFox addon store: [How to install](#via-addonmozillaorg-)**\
+**FireFox addon store: [How to install](#via-addonmozillaorg)**\
 **FireFox temporary addon: [How to install](#via-temporary-extensions)**
 
 ### Features
@@ -43,7 +43,7 @@ Let me explain... With pictures!\
    Step 8: Click `Done`
 
 ### FireFox tutorial:
-#### Via `addon.mozilla.org`:
+#### Via `addon.mozilla.org`
 `Link coming soon!`
 #### Via temporary extensions
 **Warning:** If you do it this way, you'll have to do this again every time you restart/start firefox, due to firefox disabling the extension then! We recommend using the [webstore method](#via-addonmozillaorg-).\
