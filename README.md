@@ -3,6 +3,7 @@
 **[Tested Browsers](#Tested-browsers)**\
 **[What on earth does this do?](#what-on-earth-does-this-do)**\
 **Chrome: [How to install](#chrome-tutorial-)**\
+**Opera & Opera GX: [How to install](#opera-tutorial-)**\
 **FireFox addon store: [How to install](#via-addonmozillaorg)**\
 **FireFox temporary addon: [How to install](#via-temporary-extensions)**
 
@@ -41,6 +42,8 @@ Let me explain... With pictures!\
 ![with-3.png](with-3.png)
 
 ## How to install
+### Opera tutorial:
+`Link coming soon!`
 ### Chrome tutorial:
    Step 1: Get the latest release\
    Step 2: Unzip the source code\
@@ -53,7 +56,7 @@ Let me explain... With pictures!\
 
 ### FireFox tutorial:
 #### Via `addon.mozilla.org`
-`Link coming soon!`
+[Click here](https://addons.mozilla.org/de/firefox/addon/returnboxes/)
 #### Via temporary extensions
 **Warning:** If you do it this way, you'll have to do this again every time you restart/start firefox, due to firefox disabling the extension then! We recommend using the [webstore method](#via-addonmozillaorg).\
    Step 1: Get the latest release\
