@@ -15,12 +15,13 @@
 - Title has normal font again
 - Background of normal buttons transparent (like in the old layout)
 - Dark mode compatibility
+- Popup menu
 - and lots more...
 
 ### Tested Browsers
 ✅ - Chrome -> use chrome version | Tested up to 1.6.0\
-✅ - Opera -> use chrome version | Tested up to 1.5.3\
-✅ - Opera GX -> use chrome version | Tested up to 1.5.3\
+✅ - Opera -> use chrome version | Tested up to 1.6.0\
+✅ - Opera GX -> use chrome version | Tested up to 1.6.0\
 ✅ - FireFox -> use firefox version | Tested up to 1.6.0
 
 
