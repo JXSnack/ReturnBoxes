@@ -18,10 +18,10 @@
 - and lots more...
 
 ### Tested Browsers
-✅ - Chrome -> use chrome version\
-✅ - Opera -> use chrome version\
-✅ - Opera GX -> use chrome version\
-✅ - FireFox -> use firefox version
+✅ - Chrome -> use chrome version | Tested up to 1.6.0\
+✅ - Opera -> use chrome version | Tested up to 1.5.3\
+✅ - Opera GX -> use chrome version | Tested up to 1.5.3\
+✅ - FireFox -> use firefox version | Tested up to 1.6.0
 
 
 ### Extension support
