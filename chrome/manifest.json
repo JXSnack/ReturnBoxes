@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Chrome Return Boxes",
-    "version": "1.5.3",
+    "version": "1.6.0",
     "description": "CHROME VERSION - Brings back all the boxes on youtube. Please check link.snackbag.net/rb-up for updates",
     "icons":{
       "128":"images/icon.png",
@@ -9,6 +9,16 @@
     },
     "content_scripts": [{
       "css": ["bringBack.css"],
+      "js": ["content.js"],
       "matches": ["https://www.youtube.com/*"]
-    }]
+    }],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "permissions": ["activeTab", "tabs", "storage", "webRequest"],
+    "action": {
+      "default_title": "Customize YouTube",
+      "default_icon": "images/icon_small.png",
+      "default_popup": "popup.html"
+    }
 }

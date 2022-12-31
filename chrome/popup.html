@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Customize YouTube</title>
+    <link rel="stylesheet" href="popup.css"/>
+</head>
+<body>
+<h1>ReturnBoxes DevTools</h1>
+<button id="userinput-inpage" style="width: 100%">Remove all in-page-CSS from youtube</button><br/>
+<button id="userinput-stylesheet" style="width: 100%">Remove all stylesheets from youtube</button><br/>
+<button id="userinput-extras" style="width: 100%">Remove all extra styles from youtube</button><br/>
+<br/><br/>
+<minimum-space class="small">
+    <p id="debug-info">Debug info: MF<span id="manifest-version"></span> - v<span id="manifest-number"></span> - "<span
+            id="manifest-name"></span>"</p>
+    <p id="js-state">State: <span id="js-check">JavaScript failed</span></p>
+    <div class="tooltip">
+        <button id="copy-button">
+            <span class="tooltiptext" id="myTooltip">Click to copy</span>
+            Copy information
+        </button>
+    </div>
+</minimum-space>
+
+<script src="popup.js"></script>
+</body>
+</html>
