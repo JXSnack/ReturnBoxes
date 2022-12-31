@@ -15,6 +15,7 @@
 - Title has normal font again
 - Background of normal buttons transparent (like in the old layout)
 - Dark mode compatibility
+- Popup menu
 - and lots more...
 
 ### Tested Browsers
