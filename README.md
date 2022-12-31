@@ -19,8 +19,8 @@
 
 ### Tested Browsers
 ✅ - Chrome -> use chrome version | Tested up to 1.6.0\
-✅ - Opera -> use chrome version | Tested up to 1.5.3\
-✅ - Opera GX -> use chrome version | Tested up to 1.5.3\
+✅ - Opera -> use chrome version | Tested up to 1.6.0\
+✅ - Opera GX -> use chrome version | Tested up to 1.6.0\
 ✅ - FireFox -> use firefox version | Tested up to 1.6.0
 
 
