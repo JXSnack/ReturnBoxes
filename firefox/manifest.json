@@ -1,22 +1,41 @@
 {
-
   "manifest_version": 2,
   "name": "[Fire.] ReturnBoxes",
-  "version": "1.5.3",
-
+  "version": "1.6.0",
   "description": "FIRE. VERSION - Brings back all the boxes on youtube. Please check link.snackbag.net/rb-up for updates.",
-
   "icons": {
     "48": "images/icon_small.png",
     "128": "images/icon.png"
+  },
 
+  "permissions": ["activeTab", "tabs", "storage", "webRequest"],
+
+  "background": {
+    "scripts": ["background.js"]
   },
 
   "content_scripts": [
     {
-      "matches": ["*://*.youtube.com/*", "*://youtube.com/*"],
-      "css": ["bringBack.css"]
+      "matches": [
+        "*://*.youtube.com/*",
+        "*://youtube.com/*"
+      ],
+      "css": [
+        "bringBack.css"
+      ],
+      "js": [
+        "content.js"
+      ]
     }
-  ]
-
+  ],
+  "browser_action": {
+    "default_title": "Customize YouTube",
+    "default_icon": "images/icon_small.png",
+    "default_popup": "popup.html"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "returnboxes@snackbag.net"
+    }
+  }
 }
